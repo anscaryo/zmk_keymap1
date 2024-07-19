@@ -3,7 +3,11 @@
  *
  * SPDX-License-Identifier: MIT
  */
-
+/*
+Archivo creado con la utilidad de keymap editor, es una adaptación de mi
+configuracion en el crkbd, lo estare modificando y cuando tenga el corner 
+con el nuevo chip lo instalare.
+*/
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/keys.h>
